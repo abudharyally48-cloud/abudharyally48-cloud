@@ -7,7 +7,7 @@
 Software developer from Tanzania. I build full-stack products, bots and automation, and mobile apps,<br>
 and I'm steadily moving toward security engineering.
 
-<a href="https://github.com/saidhussein?tab=followers"><img src="https://img.shields.io/github/followers/saidhussein?style=flat-square&logo=github&logoColor=white&labelColor=171717&color=2BEE34" alt="GitHub followers"></a>
+<a href="https://github.com/abudhary48-cloud?tab=followers"><img src="https://img.shields.io/github/followers/abudhary48-cloud?style=flat-square&logo=github&logoColor=white&labelColor=171717&color=2BEE34" alt="GitHub followers"></a>
 
 <br><br>
 
@@ -26,9 +26,6 @@ and I'm steadily moving toward security engineering.
 
 <h3 align="center">Languages</h3>
 
-<p align="center">
-  <img src="assets/globe.svg" alt="Rotating globe of languages: JavaScript, TypeScript, Python, C++, Kotlin" width="420">
-</p>
 
 <p align="center">
   <sub>JavaScript · TypeScript · Python · C++ · Kotlin</sub>
@@ -82,7 +79,7 @@ A modular WhatsApp automation project, built and deployed continuously.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saidhussein/saidhussein/output/snake.svg" alt="Contribution snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/abudhary48-cloud/abudhary48-cloud/output/snake.svg" alt="Contribution snake animation" width="100%">
 </p>
 
 <h3 align="center">Current Focus</h3>
